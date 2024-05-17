@@ -1,0 +1,30 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color koyuYesil
+color white
+drawable butonarkaplan
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id language
+id login
+id name
+id password
+id toolbar
+id welcome
+id welcome1
+layout activity_main
+layout activity_welcome_page
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string change_language
+string login
+string name
+string password
+string welcome
+string welcome1
+style Base.Theme.TwoLanguagesTry
+style Theme.TwoLanguagesTry
+xml backup_rules
+xml data_extraction_rules
