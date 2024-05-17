@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ÇokDilliUygulama</string>
+    <string name="change_language">Dili Değiştir</string>
+    <string name="login">Giriş</string>
+    <string name="name">İsim</string>
+    <string name="password">Şifre</string>
+    <string name="welcome">Hoşgeldin</string>
+    <string name="welcome1">Hoşgeldin</string>
+</resources>

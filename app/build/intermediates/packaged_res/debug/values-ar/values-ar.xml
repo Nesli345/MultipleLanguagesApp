@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MultipleLanguages</string>
+    <string name="change_language">تغيير اللغة</string>
+    <string name="login">تسجيل الدخول</string>
+    <string name="name">اسم</string>
+    <string name="password">شعار</string>
+    <string name="welcome">أهلًا وسهلًا</string>
+    <string name="welcome1">أهلًا وسهلًا</string>
+</resources>
